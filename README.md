@@ -4,7 +4,7 @@ Este curso es una reinterpretación de diferentes recursos de programación comp
 
 # Clase 1: Complejidad algorítmica
 
-[Clase 1]([https://website-name.com](https://github.com/elvispy/Introduccion-Programacion-Competitiva/blob/main/Clases/clase01-analisis-complejidad.ipynb))
+[Clase 1](https://github.com/elvispy/Introduccion-Programacion-Competitiva/blob/main/Clases/clase01-analisis-complejidad.ipynb)
 
 ## Ejercicios
 
